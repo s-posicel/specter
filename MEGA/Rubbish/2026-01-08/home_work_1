@@ -1,0 +1,5 @@
+w = int(input("Enter width: "))
+h = int(input("Enter height: "))
+
+for _ in range(h):
+    print('*' * w)
